@@ -1,3 +1,4 @@
-Belajar git
+Belajar git.
+belajar menggunakan git
 
 Bersama WRI 
